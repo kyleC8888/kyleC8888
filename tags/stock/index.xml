@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stock on Home</title>
+    <link>https://kylec8888.github.io/kyleC8888/tags/stock/</link>
+    <description>Recent content in Stock on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Thu, 05 Mar 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://kylec8888.github.io/kyleC8888/tags/stock/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Stock1</title>
+      <link>https://kylec8888.github.io/kyleC8888/posts/stock1/</link>
+      <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://kylec8888.github.io/kyleC8888/posts/stock1/</guid>
+      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Stock2</title>
+      <link>https://kylec8888.github.io/kyleC8888/posts/stock2/</link>
+      <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://kylec8888.github.io/kyleC8888/posts/stock2/</guid>
+      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Stock3</title>
+      <link>https://kylec8888.github.io/kyleC8888/posts/stock3/</link>
+      <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://kylec8888.github.io/kyleC8888/posts/stock3/</guid>
+      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
